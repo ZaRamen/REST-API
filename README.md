@@ -7,5 +7,6 @@ REST API with Docker
 2. Then do npm install
 3. You can create a docker image using docker build . -t \<PATH\>
 4. THen run a docker container using docker run -d  -p 5000:5000 \<PATH\>
+5. Then go to http://localhost:5000/users
 
 The PATH can be anything. An example is Rest/web-app:v1
