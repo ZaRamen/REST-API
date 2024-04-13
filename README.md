@@ -1,7 +1,7 @@
 # REST-API
 REST API with Docker
 
-# Instructions
+## Instructions
 
 1. First do npm init -y
 2. Then do npm install
